@@ -1,9 +1,9 @@
 ## Hi there 👋. I'm taooooooooooooooo
 
 - 🌱 I’m currently learning goland & k8s,pretty interested in cloud native direction
-- Runner: I have participated in one half-horse, one full-horse and two cross-country races.
+- 🏃 Runner: I have participated in one half-horse, one full-horse and two cross-country races.
 - 📫 How to reach me: yansaitao@gmail.com
-- 😄 personal blog: [taooooooooooooooo](https://www.taooooooooooooooo.top/about)
+- 😄 Personnal blog: [taooooooooooooooo](https://www.taooooooooooooooo.top/about)
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
