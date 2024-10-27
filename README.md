@@ -1,4 +1,4 @@
-## Hi there 👋. I'm taooooooooooooooo
+## Hi 👋. I'm taooooooooooooooo
 
 - 🌱 I’m currently learning goland & k8s,pretty interested in cloud native direction
 - 🏃 Runner: I have participated in one half-horse, one full-horse and two cross-country races.
