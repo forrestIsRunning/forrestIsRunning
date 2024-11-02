@@ -1,14 +1,22 @@
-## Hi 👋. I'm taooooooooooooooo
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Forrest-Tao/count.svg" />
+</p>
 
-- 🌱 I’m currently learning goland & k8s,pretty interested in cloud native direction
-- 🏃 Runner: I have participated in one half-horse, one full-horse and two cross-country races.
-- 📫 How to reach me: yansaitao@gmail.com
-- 😄 Personnal blog: [taooooooooooooooo](https://www.taooooooooooooooo.top/about)
-- 📺 :[bilibili](https://space.bilibili.com/455044746)
+<h1 align="center"> Hi 👋, I'm taooooooooooooooo </h1>
+
+- :orange_book: interested in Backend Dev & Cloud Native
+- 🏃: one half-horse, one full-horse and two cross-country races.
+- 😄: [personal blog](https://www.taooooooooooooooo.top/about)
+- 📺: [bilibili channel](https://space.bilibili.com/455044746)
+- 📫 Reach me: yansaitao@gmail.com
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Forrest-Tao&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=GoSimplicity&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Forrest-Tao&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+  
+  <!-- Streak Stats -->
+  <img width="45%" src="https://streak-stats.demolab.com?user=GoSimplicity&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+</p>
+
 
