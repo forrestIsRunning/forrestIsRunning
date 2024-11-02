@@ -6,10 +6,10 @@
 <h1 align="center"> Hi 👋, I'm taooooooooooooooo </h1>
 
 - :orange_book: interested in Backend Dev & Cloud Native
-- 🏃: one half-horse, one full-horse and two cross-country races.
-- 😄: [personal blog](https://www.taooooooooooooooo.top/about)
-- 📺: [bilibili channel](https://space.bilibili.com/455044746)
-- 📫 Reach me: yansaitao@gmail.com
+- 🏃 one half marathon ,one full marathon and two trails
+- 😄 [my blog](https://www.taooooooooooooooo.top/about)
+- 📺 [bilibili channel](https://space.bilibili.com/455044746)
+- 📫 yansaitao@gmail.com
 
 <p align="center">
   <!-- GitHub Stats -->
