@@ -6,8 +6,8 @@
 <h1 align="center"> Hi 👋, I'm taooooooooooooooo </h1>
 
 - :orange_book: interested in Backend Dev & Cloud Native
-- 🏃 one half marathon ,one full marathon and two trails
-- 😄 [my blog](https://www.taooooooooooooooo.top/about)
+- 🏃 [one half marathon ,one full marathon and two trails](https://forrest-is-running.vercel.app/)
+- 😄 [Forrest's personal blog](https://www.taooooooooooooooo.top/about)
 - 📫 yansaitao@gmail.com
 
 <p align="center">
