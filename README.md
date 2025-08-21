@@ -1,6 +1,6 @@
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Forrest-Tao/count.svg" />
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/Forrest-Tao/count.svg" /> -->
 </p>
 
 <h1 align="center"> Hi 👋, I'm taooooooooooooooo </h1>
