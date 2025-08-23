@@ -7,7 +7,7 @@
 
 - :orange_book: interested in Backend Dev & Cloud Native
 - 🏃 [one half marathon ,one full marathon and two trails](https://forrest-is-running.vercel.app/)
-- 😄 [Forrest's personal blog](https://www.taooooooooooooooo.top/about)
+- 😄 [Forrest's personal blog](https://notion-next-fzwmhui5a-forrest-taos-projects.vercel.app/about)
 - 📫 yansaitao@gmail.com
 
 <p align="center">
