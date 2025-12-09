@@ -5,18 +5,14 @@
 
 <h1 align="center"> Hi 👋, I'm taooooooooooooooo </h1>
 
-- :orange_book: interested in Backend Dev & Cloud Native
-- 🏃 [one half marathon ,one full marathon and two trails](https://forrest-is-running.vercel.app/)
-- 😄 [Forrest's personal blog](https://notion-next-fzwmhui5a-forrest-taos-projects.vercel.app/about)
+- :orange_book: interested in Backend Dev & Cloud Native & LLM inference infra 
+- 😄 [Forrest's personal blog](https://www.forrestisrunning.tech/about)
 - 📫 yansaitao@gmail.com
 
 <p align="center">
   <!-- GitHub Stats -->
   <img width="45%" src="https://github-read-state.vercel.app/api?username=forrestIsRunning&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-  
-  
-  <!-- Streak Stats -->
-  <img width="45%" src="https://streak-stats.demolab.com?user=GoSimplicity&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+
 </p>
 
 
