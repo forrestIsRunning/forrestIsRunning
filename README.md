@@ -9,10 +9,4 @@
 - 😄 [Forrest's personal blog](https://www.forrestisrunning.tech/about)
 - 📫 yansaitao@gmail.com
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img width="45%" src="https://github-read-state.vercel.app/api?username=forrestIsRunning&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-
-</p>
-
 
